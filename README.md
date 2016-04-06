@@ -11,6 +11,8 @@ You can configure the values that are passed to Application Insights via the Tea
 
 More details about this MetaRunner are in the following blog post:
 
+- [TeamCity MetaRunner for creating Release Annotations in Azure Application Insights](https://blogs.endjin.com/2016/04/teamcity-metarunner-for-creating-release-annotations-in-azure-application-insights/)
+
 To build the MetaRunner - use Build\build-powershellrunner.cmd to package up the MetaRunner - the zip file is available in the Drops folder.
 
 See the following blog posts for more information about Application Insights:
