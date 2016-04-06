@@ -7,4 +7,4 @@ More details about this MetaRunner are in the following blog post:
 
 To build the MetaRunner - use Build\build-powershellrunner.cmd to package up the MetaRunner - the zip file is available in the Drops folder.
 
-@HowardvRooijen | @endjin
+[@HowardvRooijen](http://twitter.com/howardvrooijen) | [@endjin](http://twitter.com/endjin)
