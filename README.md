@@ -1,7 +1,7 @@
 Application Insights Release Annotations MetaRunner
 ===================================================
 
-A TeamCity MetaRunner to notify Application Insights that a new deployment has occurred.
+A TeamCity MetaRunner to notify Application Insights that a new deployment has occurred. The Meta Runner wraps the script provided at [Application Insights: Powershell script available for creating Release Annotations](https://azure.microsoft.com/en-gb/blog/application-insights-powershell-script-available-for-creating-release-annotations/)
 
 ![](Docs/AppInsightsAnnotations.png)
 
